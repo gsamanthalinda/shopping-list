@@ -1,0 +1,10 @@
+
+cabbages
+meats
+tomatoes
+rice
+cooking oil
+mayonnaise
+ketchup
+vinegar
+
