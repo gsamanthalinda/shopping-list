@@ -7,3 +7,17 @@ mop
 shower gel
 shampoo
 body scrub
+cabbage
+meats
+tomatoes
+rice
+cooking oil
+mayonnaise
+ketchup
+vinegar
+Biscuits
+Pringles
+Bread
+Oreo
+Winnaz
+>>>>>>> main
